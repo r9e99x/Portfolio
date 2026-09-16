@@ -100,6 +100,7 @@ Create ML로 직접 학습시킨 텍스트 분류 모델(`ExpenseClassifier`)과
 ## 📫 Contact
 
 - **GitHub**: [github.com/r9e99x](https://github.com/r9e99x)
+- **EMail**: r94509@gmail.com
 
 ---
 
